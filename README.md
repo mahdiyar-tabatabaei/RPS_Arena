@@ -4,10 +4,10 @@ A simple and interactive Rock, Paper, Scissors game built with Python and played
 
 📌 Features
 
-	- Play multiple rounds against the computer
-	- Track and display the result of each round
-	- View the most recent game result or all previous results
-	- Easy-to-use text-based interface
+- Play multiple rounds against the computer
+- Track and display the result of each round
+- View the most recent game result or all previous results
+- Easy-to-use text-based interface
 
 🚀 How to Run
 
