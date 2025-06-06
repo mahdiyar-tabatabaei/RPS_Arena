@@ -48,4 +48,4 @@ A simple and interactive Rock, Paper, Scissors game built with Python and played
 	README.md                  # Project documentation
 👤 Author
 
-	https://github.com/mahdiyar-tabatabaei
+	[Mahdiyar Tabatabaei](https://github.com/mahdiyar-tabatabaei)
