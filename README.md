@@ -13,11 +13,16 @@ A simple and interactive Rock, Paper, Scissors game built with Python and played
 	- Easy-to-use text-based interface
 
 🚀 How to Run
+
 	1. Make sure you have Python 3.x installed on your machine.
+ 
 	2.Clone this repository or download the script:
+ 
 		git clone https://github.com/your-username/rock-paper-scissors-game.git
 		cd rock-paper-scissors-game
+  
 	3.Run the game using:
+ 
 		python rock_paper_scissors.py
 
 🎮 How to Play
