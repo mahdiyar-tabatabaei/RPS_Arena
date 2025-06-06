@@ -47,5 +47,4 @@ A simple and interactive Rock, Paper, Scissors game built with Python and played
 	rock_paper_scissors.py     # Main game script
 	README.md                  # Project documentation
 👤 Author
-
 	[Mahdiyar Tabatabaei](https://github.com/mahdiyar-tabatabaei)
