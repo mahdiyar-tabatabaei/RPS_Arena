@@ -20,15 +20,16 @@ A simple and interactive Rock, Paper, Scissors game built with Python and played
 
 🎮 How to Play
 
-	Enter your name.
-	Choose how many rounds you want to play.
+Enter your name.
+Choose how many rounds you want to play.
 	In each round, pick:
+ 
 		1 for Rock
 		2 for Paper
 		3 for Scissors
-	The game compares your choice with the computer’s and shows the result.
-	At the end, you’ll see the total wins, losses, and draws.
-	From the main menu, you can start a new game, view the last result, or see all game history.
+The game compares your choice with the computer’s and shows the result.
+At the end, you’ll see the total wins, losses, and draws.
+From the main menu, you can start a new game, view the last result, or see all game history.
 
 🗂️ Project Structure
 
